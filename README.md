@@ -1,7 +1,7 @@
 # Music-Sentiment-Analysis-and-Topic-Modeling
 
-Languages Used: Python, MySQL \n
-Libraries: Numpy, Pandas, Matplotlib, Sklearn, nltk, gensim, pylyrics3, genius, pymysql, json \n
+Languages Used: Python, MySQL <br />
+Libraries: Numpy, Pandas, Matplotlib, Sklearn, nltk, gensim, pylyrics3, genius, pymysql, jsonne <br />
 
 In this project, I attempt to understand the core ideas that have driven popular music over the past 50 years as well as how sentiment has shifted over time. 
 
